@@ -1,4 +1,4 @@
-Main 1
-Git Udemy pessoa 1
-Develop 1
+Principal 1
+Git Udemy person 1
+Desenvolvedor 1
 Sobre
